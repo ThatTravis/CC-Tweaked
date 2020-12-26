@@ -1,3 +1,5 @@
+--script running on the data center computer
+
 modem = peripheral.wrap("top")
 monitor = peripheral.wrap("back")
 
