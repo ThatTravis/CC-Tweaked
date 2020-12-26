@@ -2,13 +2,13 @@
 <h3>Version 0.1</h3>
 
 <h2>Table of Content</h2>
-+ 1 Turtle
-+ 1.1 mine()
-+ 1.2 dropAndRefuel()
-+ 1.3 transmitData()
-+ 2 Data Center()
-+ 2.1 wrapPeripherals()
-+ 2.2 receiveData()
+- 1 Turtle
+- 1.1 mine()
+- 1.2 dropAndRefuel()
+- 1.3 transmitData()
+- 2 Data Center()
+- 2.1 wrapPeripherals()
+- 2.2 receiveData()
 
 
 <h2>1 Turtle<h2>
